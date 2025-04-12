@@ -1,4 +1,5 @@
-### Group_18_Climber
+# Group_18_Climber
+
 Course Project - UX_DESIGN_FOR_MOBILE_APPLICATION_IE418
 
 ## Process:
@@ -23,6 +24,9 @@ College students exploring career options.
 Fresh graduates looking for job readiness support.
 Early-career professionals seeking mentorship and upskilling.
 Individuals from diverse educational backgrounds aiming for career growth.
+
+## Design Statement:
+
 
 
 
