@@ -1,4 +1,4 @@
-# Group_18_Climber Course IE-418 Project
+# Group_18 Climber - Mentorship Application
 
 ## High - Fidelity Wireframe:
 # [Prototype Link](https://www.figma.com/design/3grWskm6iWU8q1Gvbb5Nqv/High-Fidelity-Changes?fuid=1461554226542490740)
@@ -81,7 +81,7 @@ Individuals from diverse educational backgrounds aiming for career growth.
 ![24](https://github.com/user-attachments/assets/7acf5f9c-240a-44a8-b9d4-296c7b3a2630)
 
 
-# Team Details:
+# 👥 Team Details:
 
 #### Mentor: Prof. Anupam Rana [LinkedIn](https://www.linkedin.com/in/prof-dr-anupam-rana-28017a18/)
  ### Dobariya Vraj 202201106
