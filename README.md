@@ -1,7 +1,8 @@
 ### Group_18_Climber
 Course Project - UX_DESIGN_FOR_MOBILE_APPLICATION_IE418
 
-Process:
+## Process:
+
 ![image](https://github.com/user-attachments/assets/ee330b32-b456-41aa-bfb7-279fa47e80ea)
 
 A career mentorship platform designed to connect students with industry professionals, providing personalized guidance, skill-building resources, and career roadmaps. The app features:
