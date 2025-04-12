@@ -2,11 +2,16 @@
 
 #### Mentor: Prof. Anupam Rana [LinkedIn](https://www.linkedin.com/in/prof-dr-anupam-rana-28017a18/)
 
-# Presentation:
+
+
+# Project:
+
+### Folder 1 - Low and High Fidelity.
+### Folder 2 - Presentation:
 File Uploaded in Folder 2 is compressed as it was more than 25 mb file.
 ### High Quality presentation: [Presentation Link](https://www.canva.com/design/DAGjmMPbTL4/PPj0yrwhKsOoo8geV7owig/edit?utm_content=DAGjmMPbTL4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-# Project
+### Folder 3 - User Journey Map, Flowchart and Style Guide
+### Folder 4 - Assignments
 ## Process:
 Empathize
 Understand the users by conducting competitive benchmarking, surveys, and analyzing user reviews. This helps uncover user needs and pain points from real-world data.
