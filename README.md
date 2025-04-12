@@ -84,9 +84,9 @@ Individuals from diverse educational backgrounds aiming for career growth.
 #### Team Details:
 
 #### Mentor: Prof. Anupam Rana [LinkedIn](https://www.linkedin.com/in/prof-dr-anupam-rana-28017a18/)
- ## Dobariya Vraj 202201106
- ## Dhanani Vidhi 202201076
- ## Bhanderi Kashvi 202201149
+ ### Dobariya Vraj 202201106
+ ### Dhanani Vidhi 202201076
+ ### Bhanderi Kashvi 202201149
 Thank You.
 
 
