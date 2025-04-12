@@ -58,14 +58,14 @@ Individuals from diverse educational backgrounds aiming for career growth.
 ### Theme:
 ![image](https://github.com/user-attachments/assets/d66f56be-96d3-46f0-8e97-dde118c0ff4c)
 
-## FlowChart, Information Architechture:
+## FlowChart - Information Architechture:
 ![image](https://github.com/user-attachments/assets/5d876583-ee08-4c71-b0df-701f0560bf39)
 
 
-## Low Fidelity Wireframe:
+## Low - Fidelity Wireframe:
 ![image](https://github.com/user-attachments/assets/fc4acf0a-ae32-432e-a2b9-b5627195eaf7)
 
-## High Fidelity:
+## High - Fidelity Wireframe:
 # [Prototype Link](Link)
 
 ![20](https://github.com/user-attachments/assets/5559fdda-bf92-466b-995b-dc65f4ec79a5)
