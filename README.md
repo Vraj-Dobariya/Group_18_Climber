@@ -4,6 +4,14 @@
 
 Course Project - UX_DESIGN_FOR_MOBILE_APPLICATION_IE418
 
+# High Fidelity  [Prototype Link](Link)
+
+# Presentation:
+File Uploaded in Folder 2 is compressed as it was more than 25 mb file.
+### High Quality presentation: [Presentation Link](https://www.canva.com/design/DAGjmMPbTL4/PPj0yrwhKsOoo8geV7owig/edit?utm_content=DAGjmMPbTL4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
+# Project
 ## Process:
 Empathize
 Understand the users by conducting competitive benchmarking, surveys, and analyzing user reviews. This helps uncover user needs and pain points from real-world data.
@@ -63,7 +71,8 @@ Individuals from diverse educational backgrounds aiming for career growth.
 ![image](https://github.com/user-attachments/assets/fc4acf0a-ae32-432e-a2b9-b5627195eaf7)
 
 ## High Fidelity:
-[Prototype Link](Link)
+# [Prototype Link](Link)
+
 ![20](https://github.com/user-attachments/assets/5559fdda-bf92-466b-995b-dc65f4ec79a5)
 ![21](https://github.com/user-attachments/assets/2d7ef545-2d11-43de-9bbd-64272575c5cf)
 ![22](https://github.com/user-attachments/assets/631fad6c-cf9f-4c11-a3e3-fd1584e26d49)
