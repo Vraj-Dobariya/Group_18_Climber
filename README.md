@@ -2,7 +2,8 @@
 
 #### Mentor: Prof. Anupam Rana [LinkedIn](https://www.linkedin.com/in/prof-dr-anupam-rana-28017a18/)
 
-
+## High - Fidelity Wireframe:
+# [Prototype Link](https://www.figma.com/design/3grWskm6iWU8q1Gvbb5Nqv/High-Fidelity-Changes?fuid=1461554226542490740)
 
 # Project:
 
@@ -71,7 +72,7 @@ Individuals from diverse educational backgrounds aiming for career growth.
 ![image](https://github.com/user-attachments/assets/fc4acf0a-ae32-432e-a2b9-b5627195eaf7)
 
 ## High - Fidelity Wireframe:
-# [Prototype Link](Link)
+# [Prototype Link](https://www.figma.com/design/3grWskm6iWU8q1Gvbb5Nqv/High-Fidelity-Changes?fuid=1461554226542490740)
 
 ![20](https://github.com/user-attachments/assets/5559fdda-bf92-466b-995b-dc65f4ec79a5)
 ![21](https://github.com/user-attachments/assets/2d7ef545-2d11-43de-9bbd-64272575c5cf)
