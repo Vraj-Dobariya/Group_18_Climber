@@ -2,7 +2,7 @@
 
 ## High - Fidelity Wireframe:
 # [Prototype Link](https://www.figma.com/design/3grWskm6iWU8q1Gvbb5Nqv/High-Fidelity-Changes?fuid=1461554226542490740)
-## Low - Fiedelity Wireframe
+## Low - Fidelity Wireframe
 # [Figma Link](https://www.figma.com/design/aQKNCDCKLsjdJAtamhwDHH/Low-Fidelity--Mentorship-App?node-id=0-1&t=TKaf6uItuZFC3dEV-1)
 # Project:
 
