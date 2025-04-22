@@ -1,7 +1,7 @@
 # Group_18 Climber - Mentorship Application
 
 ## High - Fidelity Wireframe:
-# [Prototype Link](https://www.figma.com/design/3grWskm6iWU8q1Gvbb5Nqv/High-Fidelity-Changes?fuid=1461554226542490740)
+# [Prototype Link](https://www.figma.com/proto/3grWskm6iWU8q1Gvbb5Nqv/High-Fidelity-prototype?node-id=0-1&t=VM1WAIBumVPFNNYw-1)
 ## Low - Fidelity Wireframe
 # [Figma Link](https://www.figma.com/design/aQKNCDCKLsjdJAtamhwDHH/Low-Fidelity--Mentorship-App?node-id=0-1&t=TKaf6uItuZFC3dEV-1)
 # Project:
